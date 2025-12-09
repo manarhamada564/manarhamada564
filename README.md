@@ -17,18 +17,18 @@ experience in the long run.</p>
  ## My history at GitHub :octocat:
 
 <div align="left">
-  <img width="90%" src="https://renatocf-github-readme-streak-stats.vercel.app/api?user=renatocf&date_format=Y.m.d&card_width=710" />
+  <img width="90%" src="https://manarhamada564-github-readme-streak-stats.vercel.app/api?user=manarhamada564&date_format=Y.m.d&card_width=710" />
 </div>
 <div align="left">
-  <img width="56%" src="https://renatocf-github-readme-stats.vercel.app/api?username=renatocf&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews" />
-  <img width="33%" src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=renatocf&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql&langs_count=12" />
+  <img width="56%" src="https://manarhamada564-github-readme-stats.vercel.app/api?username=manarhamada564&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews" />
+  <img width="33%" src="https://manarhamada564-github-readme-stats.vercel.app/api/top-langs/?username=manarhamada564&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql&langs_count=12" />
 </div>
 <div align="left">
-  <img width="90%" src="https://renatocf-github-profile-trophy.vercel.app/?username=renatocf&margin-w=4&margin-h=4&column=5&&rank=-?" />
+  <img width="90%" src="https://manarhamada564-github-profile-trophy.vercel.app/?username=manarhamada564&margin-w=4&margin-h=4&column=5&&rank=-?" />
 </div>
 
 [elo7]: https://www.elo7.com.br/sobre
-[usp]: https://ime.usp.br/~renatocf
+[usp]: https://ime.usp.br/~manarhamada564
 [jads]: https://www.jads.nl/researcher/renato-cordeiro-ferreira/
 [codelab]: https://github.com/uspcodelab
 
@@ -41,7 +41,7 @@ experience in the long run.</p>
 
 [ClassesCS]: https://uclab.xyz/sistemas-complexos-2021-aulas
 [ClassesIS]: https://uclab.xyz/sistemas-inteligentes-2021-aulas
-[PitchPhD]: https://renatocf.xyz/phd-pitch-2024-1
+[PitchPhD]: https://manarhamada564.xyz/phd-pitch-2024-1
 
 [NewsCodeLab]: https://jornal.usp.br/universidade/a-nova-lingua-da-universidade-grupos-e-coletivos-da-usp-apostam-no-ensino-de-programacao/
 [NewsHackathon]: https://jornal.usp.br/universidade/voce-sabe-o-que-e-um-hackathon/
@@ -50,7 +50,7 @@ experience in the long run.</p>
 [InstagramStoriesBrazilToNetherlands]: https://www.instagram.com/stories/highlights/18268133827151783/
 [InstagramStoriesDragõesVioletas]: https://www.instagram.com/stories/highlights/18028676347423730/
 
-[BoardGameLibrary]: https://renatocf.xyz/board-games
+[BoardGameLibrary]: https://manarhamada564.xyz/board-games
 
 
 
