@@ -14,7 +14,44 @@ experience in the long run.</p>
   </a>
 </p>
 <br>
----
+ ## My history at GitHub :octocat:
+
+<div align="left">
+  <img width="90%" src="https://renatocf-github-readme-streak-stats.vercel.app/api?user=renatocf&date_format=Y.m.d&card_width=710" />
+</div>
+<div align="left">
+  <img width="56%" src="https://renatocf-github-readme-stats.vercel.app/api?username=renatocf&custom_title=General%20GitHub%20Stats%20📈&show_icons=true&include_all_commits=true&show=reviews" />
+  <img width="33%" src="https://renatocf-github-readme-stats.vercel.app/api/top-langs/?username=renatocf&custom_title=Most%20Used%20Languages%20🧑‍💻&layout=compact&size_weight=0.5&count_weight=0.5&hide=plpgsql&langs_count=12" />
+</div>
+<div align="left">
+  <img width="90%" src="https://renatocf-github-profile-trophy.vercel.app/?username=renatocf&margin-w=4&margin-h=4&column=5&&rank=-?" />
+</div>
+
+[elo7]: https://www.elo7.com.br/sobre
+[usp]: https://ime.usp.br/~renatocf
+[jads]: https://www.jads.nl/researcher/renato-cordeiro-ferreira/
+[codelab]: https://github.com/uspcodelab
+
+[PaperOG]: http://dx.doi.org/10.48550/arXiv.2506.06202
+[PaperSPIRA]: http://dx.doi.org/10.48550/arXiv.2506.08153
+[PaperHIDRA]: http://dx.doi.org/10.5753/cbsoft_estendido.2020.14622
+[PaperThesis1]: http://dx.doi.org/10.1109/CAIN66642.2025.00041
+[PaperThesis2]: http://dx.doi.org/10.48550/arXiv.2506.11295
+[PaperHackathon]: http://dx.doi.org/10.1145/3697789.3697794
+
+[ClassesCS]: https://uclab.xyz/sistemas-complexos-2021-aulas
+[ClassesIS]: https://uclab.xyz/sistemas-inteligentes-2021-aulas
+[PitchPhD]: https://renatocf.xyz/phd-pitch-2024-1
+
+[NewsCodeLab]: https://jornal.usp.br/universidade/a-nova-lingua-da-universidade-grupos-e-coletivos-da-usp-apostam-no-ensino-de-programacao/
+[NewsHackathon]: https://jornal.usp.br/universidade/voce-sabe-o-que-e-um-hackathon/
+
+[InstagramPostDigitalNomad]: https://www.instagram.com/p/CnKyhqOSgwr/?igsh=NHdidGVzZmF4dDE5/
+[InstagramStoriesBrazilToNetherlands]: https://www.instagram.com/stories/highlights/18268133827151783/
+[InstagramStoriesDragõesVioletas]: https://www.instagram.com/stories/highlights/18028676347423730/
+
+[BoardGameLibrary]: https://renatocf.xyz/board-games
+
 
 
 
