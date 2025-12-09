@@ -15,8 +15,9 @@ experience in the long run.</p>
 </p>
 <br>
  ## My history at GitHub :octocat:
- [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=manarhamada564&theme=vue&hide_border=true)](https://git.io/streak-stats)
-
+<div>
+ <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=manarhamada564&theme=vue&hide_border=true" alt="GitHub Streak" /></a>
+</div>
 
 
 
