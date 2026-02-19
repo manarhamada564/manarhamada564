@@ -1,6 +1,6 @@
 <h2> Hi, I'm Manar Hamada! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200"> -->
-<p><em>Data Engineer graduated from <a href="https://bu.edu.eg/en/index.php"> Banha University </a><img src="https://bu.edu.eg/en/images/BU_EN_LogoN.png" width="50"></p>
+<p><em>Data Engineer graduated from <a href="https://bu.edu.eg/en/index.php"> Banha University </a><img src="https://bu.edu.eg/en/images/BU_EN_LogoN.png" width="90"></p>
 <p><em><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</p>
  - ⚡ Fun fact ** I luv Gamming **
 <h5 align="left">Connect with me:</h5>
